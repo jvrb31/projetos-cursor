@@ -19,4 +19,4 @@ Calculadora de Índice de Massa Corporal feita em Python com auxílio do Cursor.
 
 ## 👤 Autor
 
-José
+José — [LinkedIn](https://linkedin.com/in/josevitorr00) · [GitHub](https://github.com/jvrb31)
